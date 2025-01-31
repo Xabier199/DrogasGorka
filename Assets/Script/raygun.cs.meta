@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c75bef7885ff1b409f7c215c381721b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineprefab: {instanceID: 0}
+  - rayImpactPrefab: {instanceID: 0}
+  - shootingpoint: {instanceID: 0}
+  - source: {instanceID: 0}
+  - shootingAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
